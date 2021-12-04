@@ -1,0 +1,44 @@
+.parent-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+}
+.login-div{
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    border : 2px solid #ced4da;
+    padding:10px;
+}
+
+.child-div-container{
+    display:flex;
+    flex-direction:row;
+
+}
+
+.logo{
+    width: 140px;
+    height: 120px;
+    align-self:center;
+}
+.username,.password{
+    border-radius: 4px;
+    border:1px solid #ced4da;
+    width:300px;
+    height:32px;
+    padding:4px;
+    padding-left:10px
+}
+
+.sign-button{
+    color:black;
+    font-weight: bold;
+    background-color: #4cc9f0;
+    border-radius: 4px;
+    padding:6px;
+    border:none;
+    height:32px;
+}

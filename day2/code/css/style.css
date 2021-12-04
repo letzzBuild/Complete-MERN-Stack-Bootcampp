@@ -1,0 +1,29 @@
+.sign-in-button{
+    width:185px;
+    height:20px;
+    background-color:#00b4d8;
+    color:white;
+    border:0px;
+    border-radius:2px
+
+}
+
+body{
+    background-color:#f8f9fa
+}
+
+.login-div{
+    border:1px solid #ced4da;
+    margin-top:70px;
+    background-color:white;
+    width:15%;
+    padding-top:60px;
+    padding-bottom:60px
+}
+
+input{
+    background-color:#f8f9fa;
+    border:1px solid #ced4da;
+    border-radius:2px;
+}
+

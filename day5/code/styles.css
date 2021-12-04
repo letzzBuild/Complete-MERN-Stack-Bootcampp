@@ -1,0 +1,22 @@
+.flex-container{
+    background-color: #ffba08;
+    color:black;
+    height:600px;
+    border-radius:4px;
+    display:flex;
+    justify-content:   center;
+    align-items: center;   
+    
+}
+.flex-item{
+
+    background-color: #184e77;
+    color:white;
+    border-radius:4px;
+    margin: 5px;
+    padding:5px;
+    text-align: center;
+
+    
+}
+
