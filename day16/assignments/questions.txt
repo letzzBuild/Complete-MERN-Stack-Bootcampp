@@ -1,0 +1,11 @@
+No need to take input from user , you can assume some static values instead of input
+Every program should be written with help of functions -> Create a function for every program and write program inside that function
+
+1. JS program to swap 2 numbers
+2. Javascript Program to Check if a Number is Odd or Even
+3. JavaScript Program to Find the Largest Among Three Numbers
+4. JavaScript Program to Loop Through an Object
+5. JavaScript Program to Loop Through an Object
+6. Add a new  item to 4th position in a existing list
+7. JavaScript Program to Empty an Array
+8. Iterate over a list [6,5,6,3] add plus 2 to every element of the list
