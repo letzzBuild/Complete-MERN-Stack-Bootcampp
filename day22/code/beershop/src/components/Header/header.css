@@ -1,0 +1,14 @@
+.header{
+    margin:30px;
+    padding:50px;
+    background-color:crimson;
+    width:90%;
+    border-radius:10px;
+    height:40px;
+    text-align: center;
+}
+
+.title{
+    color:white;
+    font-size:30px;
+}

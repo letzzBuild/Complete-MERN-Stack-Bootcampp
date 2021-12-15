@@ -1,0 +1,22 @@
+.input{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid darkkhaki
+}
+.button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid darkkhaki;
+    background-color: darkkhaki;
+    color: black;
+    font-weight: bold;
+}
+
+.beer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
