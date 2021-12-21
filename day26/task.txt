@@ -1,0 +1,26 @@
+MINI PROJECT (CGPA CALCULATOR)
+1.Create a resuable Header and mention project Title inside that header(container) as done for beer shop
+2.Create a form as shown in the image sent in the group and calculate percentage and CGPA using the formulas 
+   1. CGPA formula : (Sem1 SGPA * Grade points of sem 1) + (Sem2 SGPA * Grade points of Sem 2 ) + (Sem3 SGPA * Grade points of Sem 3 and soo on till  8sem ))/Total Grade points  
+    Make sure you see the table shared in group so see how much is Grade Points for every semester   
+   2. Percentage : ((CGPA-0.75)*10)
+3.Create a Footer (you need to reuse same header created for title) and inside the footer write "project created by 'your name' #letzzBuild 
+
+Summary 
+1.Header Component with Title 
+2.Form Component with the ouput of Percentage and CGPA
+3.Footer Component with above mentioned text
+
+Things to use 
+1. Create Seperate components dont write all code in App.js
+2. Add Success Toast Notification after successfully calculating Percentage and CGPA 
+3. Reuse Components 
+4. Create Good Looking UI 
+5. Use Formik and add validation (for every input field) #rule -> value entered in every input field cannot be greater than 10 . enter value can be fro (0 to 10)(SPGA)  not more than that.
+6. if user enters value greater than 10 then display error message saying 'SPGA cannot be greater than 10'
+(Also write this text before form 'Enter SGPA for every semester in the input fields and enter 0 if particular semester is not completed yet.') 
+
+
+Form link to answer theory questions and upload project short video
+https://forms.gle/nqMBaKEWJ8562n9k6
+
